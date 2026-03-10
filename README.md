@@ -9,7 +9,7 @@ A modern, fast, and secure web application for downloading videos and extracting
 
 ## 🌟 Features
 
-- **Multi-Platform Support**: Download content from YouTube, Instagram, TikTok, and more.
+- **Multi-Platform Support**: Download content from YouTube, Instagram, and TikTok.
 - **Format Extraction**: Extract high-quality MP4 video or 320kbps MP3 audio.
 - **Instant Processing**: Lightning-fast cloud processing using distributed background workers via Redis Queue.
 - **Privacy-Focused**: No account required. All downloaded content is temporary and deleted automatically.
