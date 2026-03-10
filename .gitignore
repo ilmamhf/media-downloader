@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# User uploads/downloads
+downloads/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
