@@ -12,9 +12,6 @@ export function SupportedPlatforms() {
                 <div className="flex items-center gap-2 font-bold text-lg">
                     <span className="material-symbols-outlined">music_video</span> TikTok
                 </div>
-                <div className="flex items-center gap-2 font-bold text-lg">
-                    <span className="material-symbols-outlined">movie</span> Vimeo
-                </div>
             </div>
         </div>
     )
