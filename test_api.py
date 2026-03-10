@@ -5,7 +5,7 @@ API_URL = "http://localhost:8000/api"
 
 print("1. Triggering download...")
 payload = {
-    "url": "https://www.youtube.com/watch?v=baWqBVKwAKw", 
+    "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw", 
     "format": "mp3", 
     "quality": "320"
 }
